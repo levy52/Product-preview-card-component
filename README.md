@@ -12,7 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Live site URL here](#)
+- Live Site URL: [Live site URL here](https://levy52.github.io/Product-preview-card-component/)
 
 
 ### Built with
